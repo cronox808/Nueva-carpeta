@@ -1,3 +1,3 @@
 CampusLandas
 
-![](/home/camper/Imágenes/Capturas de pantalla/images.webp)
+![](storage/images.webp)
